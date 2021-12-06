@@ -65,9 +65,13 @@ Le debe aparecer un resumen con la confirmación de las operaciones realizadas. 
 En este momento le aparecerá una ventana de confirmación, debe marcar la opción *Yes*.
 ![Paso 14](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial14.png)
 
+Lo siguiente será seleccionar la opción *Yes*.
+![Paso 15](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial15.png)
 
+Lo siguiente será seleccionar */dev/sda*.
+![Paso 16](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial16.png)
 
-
-
+Aquí debería aparecer un mensaje de instalación completada.
+![Paso 17](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial17.png)
 
 
