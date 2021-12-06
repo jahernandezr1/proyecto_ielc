@@ -74,4 +74,13 @@ Lo siguiente será seleccionar */dev/sda*.
 Aquí debería aparecer un mensaje de instalación completada.
 ![Paso 17](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial17.png)
 
+Se finalizó con éxito la instalación de Raspbian, ahora, sigue una pequeña configuración de la Raspberry.
+![Paso 18](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial18.png)
+
+El siguiente paso será configurar el país, lenguaje y zona horario que utilizará.
+![Paso 19](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial19.png)
+
+Finalmente, deberá ingresar una contraseña que le servirá para iniciar sesión en el dispositivo.
+![Paso 20](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial20.png)
+
 
