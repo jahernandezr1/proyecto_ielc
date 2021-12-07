@@ -33,52 +33,52 @@ En momento debe asignar un nombre y una carpeta donde se guardarán todos los ar
 
 Posteriormente deberá definir un espacio en memoria para los archivos de la máquina virtual. Para este proyecto se utilizará el tamaño recomendado. Luego, se recomienda dividir el disco virtual en múltiples archivos por si se desea mover la máquina virtual en algún momento.
 
-![Paso 5](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial5.png)
+![Paso 5](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial5.png)
 
 En este punto le deberá aparecer un resumen de las opciones seleccionadas anteriormente, así como los recursos con los que se configurará inicialmente la máquina virtual. Cabe aclarar que estos recursos pueden ser modificados presionando el botón *Customize Hardware*, sin embargo, para este proyecto se dejarán los valores que están por defecto. Es importante mencionar que estos recursos se pueden modificar en cualquier momento futuro.
 
-![Paso 6](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial6.png)
+![Paso 6](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial6.png)
 
 Aquí se termina la configuración de la máquina virtual. Lo siguiente será seleccionar la máquina virtual que se acabó de crear y luego debe dar clic en *Play virtual machine*.
 
-![Paso 7](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial7.png)
+![Paso 7](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial7.png)
 
 Desde aquí iniciará la instalación de Raspbian. Debe seleccionar la opción *Graphical install* seguido de la tecla **enter**.
-![Paso 8](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial8.png)
+![Paso 8](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial8.png)
 
 Ahora, debe seleccionar la configuración del teclado que desea utilizar.
 
-![Paso 9](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial9.png)
+![Paso 9](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial9.png)
 
 Lo siguiente será seleccionar *Guided - use entire disk*.
-![Paso 10](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial10.png)
+![Paso 10](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial10.png)
 
 En esta ocasión debe seleccionar el disco que utilizará, sin embargo, solamente debería aparecer uno.
-![Paso 11](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial11.png)
+![Paso 11](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial11.png)
 
 A continuación debe seleccionar *All files in one partition (recommended for new users)*.
-![Paso 12](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial12.png)
+![Paso 12](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial12.png)
 
 Le debe aparecer un resumen con la confirmación de las operaciones realizadas. Puede oprimir *Continue*.
-![Paso 13](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial13.png)
+![Paso 13](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial13.png)
 
 En este momento le aparecerá una ventana de confirmación, debe marcar la opción *Yes*.
-![Paso 14](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial14.png)
+![Paso 14](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial14.png)
 
 Lo siguiente será seleccionar la opción *Yes*.
-![Paso 15](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial15.png)
+![Paso 15](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial15.png)
 
 Lo siguiente será seleccionar */dev/sda*.
-![Paso 16](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial16.png)
+![Paso 16](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial16.png)
 
 Aquí debería aparecer un mensaje de instalación completada.
-![Paso 17](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial17.png)
+![Paso 17](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial17.png)
 
 Se finalizó con éxito la instalación de Raspbian, ahora, sigue una pequeña configuración de la Raspberry.
-![Paso 18](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial18.png)
+![Paso 18](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial18.png)
 
 El siguiente paso será configurar el país, lenguaje y zona horario que utilizará.
-![Paso 19](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial19.png)
+![Paso 19](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial19.png)
 
 Finalmente, deberá ingresar una contraseña que le servirá para iniciar sesión en el dispositivo.
-![Paso 20](https://github.com/jahernandezr1/proyecto_ielc/blob/main/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial20.png)
+![Paso 20](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial20.png)
