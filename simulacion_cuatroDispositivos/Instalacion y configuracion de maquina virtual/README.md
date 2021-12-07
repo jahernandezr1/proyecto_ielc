@@ -80,5 +80,17 @@ Se finalizó con éxito la instalación de Raspbian, ahora, sigue una pequeña c
 El siguiente paso será configurar el país, lenguaje y zona horario que utilizará.
 ![Paso 19](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial19.png)
 
-Finalmente, deberá ingresar una contraseña que le servirá para iniciar sesión en el dispositivo.
+Por último, deberá ingresar una contraseña que le servirá para iniciar sesión en el dispositivo.
 ![Paso 20](https://github.com/jahernandezr1/proyecto_ielc/blob/master/simulacion_cuatroDispositivos/Instalacion%20y%20configuracion%20de%20maquina%20virtual/Figuras%20README/tutorial20.png)
+
+
+## Instalación de Software Necesario
+Para poder realizar esta simulación es necesario que todas las máquinas virtuales que vayan a participar tengan instalados el paquete *paho-mqtt* con el fin de que podamos enviar mensajes de tipo *MQTT* en python y, también, es necesario instalar mosquitto, que será lo que permitirá la comunicación entre los distintos dispositivos.
+
+Lo primero que debe hacer es abrir la terminal de la máquina virtual y correr los siguientes comandos:
+
+>>> sudo apt update -y
+>>> sudo apt install mosquitto mosquitto-clients -y
+>>> sudo pip install paho-mqtt
+
+Con esto ya debería ser capaz de correr los códigos necesarios para la simulación.
