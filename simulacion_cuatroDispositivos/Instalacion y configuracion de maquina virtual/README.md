@@ -89,8 +89,11 @@ Para poder realizar esta simulación es necesario que todas las máquinas virtua
 
 Lo primero que debe hacer es abrir la terminal de la máquina virtual y correr los siguientes comandos:
 
->>> sudo apt update -y
->>> sudo apt install mosquitto mosquitto-clients -y
->>> sudo pip install paho-mqtt
+```html
+sudo apt update -y
+sudo apt install mosquitto mosquitto-clients -y
+sudo pip install paho-mqtt
+```
+
 
 Con esto ya debería ser capaz de correr los códigos necesarios para la simulación.
